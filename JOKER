@@ -1,0 +1,12 @@
+{
+      "chainId": 101,
+      "address": "DCSbEFb4evHNUVbWEu94yscwr7GFKUQBkruwj1LeUsqn",
+      "symbol": "JOKER",
+      "name": "JOKER",
+      "decimals": 9,
+      "logoURI": "https://github.com/PureQuality/Token/blob/main/logo.png?raw=true",
+      "tags": [
+        "social-token",
+        "meme-token"
+      ]
+    }
