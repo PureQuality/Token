@@ -1,7 +1,10 @@
 {
-      "address": "C2DwfqSaqiZtNV6jTAdEPRgaz3dcL2jdo3Fm6FbKvC74",
-      "symbol": "JOKER",
-      "name": "JOKER",
+      mint : ""
+      updateAuthority : ""
+      data : {
+      "address": "",
+      "symbol": "",
+      "name": "",
       "decimals": 9,
       "logoURI": "https://github.com/PureQuality/Token/blob/main/logo.png?raw=true",
       "tags": [
